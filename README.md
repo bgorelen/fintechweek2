@@ -1,2 +1,4 @@
-# fintechweek2
-Add some text to the file
+# Fintech Repository
+### Fintech Repository
+
+Welcome to my repository of Fintech projects. please explore the codebase!
